@@ -70,6 +70,7 @@ console.log("Escolha seu destino")
     console.log(listaDeDestinos[contador]);
     contador++;
   }
+  
 
   var destino = entrada("Digite o número que corresponde ao destino selecionado (0-8)");
 
